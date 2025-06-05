@@ -1,0 +1,10 @@
+cryptography
+colorama
+requests
+beautifulsoup4
+fake-useragent
+lxml
+rich
+python-docx
+streamlit
+streamlit-option-menu
