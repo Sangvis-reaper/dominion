@@ -1,0 +1,3 @@
+autoslot
+imagehash
+rich-argparse
