@@ -1,0 +1,15 @@
+[submodule "tools/GHunt"]
+	path = tools/GHunt
+	url = https://github.com/mxrch/GHunt
+[submodule "tools/Hawker"]
+	path = tools/Hawker
+	url = https://github.com/AmIJesse/Hawker
+[submodule "tools/gvision"]
+	path = tools/gvision
+	url = https://github.com/HasbiAhmad/gvision
+[submodule "tools/sherlock"]
+	path = tools/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "tools/telegram_checker"]
+	path = tools/telegram_checker
+	url = https://github.com/unnohwn/telegram-checker
